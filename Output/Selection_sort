@@ -1,1 +1,17 @@
-Output File:
+Input:
+Enter a value: (for array length)
+5
+enter the valeues ( for array elements )
+12
+19
+17
+11
+10
+
+(Or you can use any user input)
+---------------------------------------------------
+
+
+Output:
+After sorting
+10 11 12 17 19
