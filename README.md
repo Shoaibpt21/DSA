@@ -15,8 +15,8 @@ Welcome to my Data Structures and Algorithms (DSA) learning journey! This reposi
 
 | Day | Topic | Description | Problems Solved |
 |-----|-------|-------------|------------------|
-| 1 | Arrays | Basics, Traversal, Insertion, Deletion |✅ |
-| 2 | Arrays | Prefix Sum, Sliding Window | |
+| 1 | Arrays | Basics, Traversal, Insertion, Deletion |✅|
+| 2 | Arrays | Prefix Sum, Sliding Window |✅|
 | 3 | Strings | String manipulation, Palindromes | |
 | 4 | Strings | Anagram, Character count | |
 | 5 | Recursion | Basics, Backtracking intro | |
