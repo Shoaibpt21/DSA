@@ -1,0 +1,28 @@
+              Strings
+
+A String in Java is an object that represents a sequence of characters.
+Defined in the java.lang package.
+Java Strings are immutable (once created, cannot be changed).
+
+String str1 = "Hello";               // String literal
+String str2 = new String("World");   // Using constructor
+
+ String pool
+String a = "Java";
+String b = "Java";
+System.out.println(a == b); // true
+
+| Method                  | Description                           |
+| ----------------------- | ------------------------------------- |
+| `length()`              | Returns the length of the string      |
+| `charAt(index)`         | Returns character at a specific index |
+| `substring(start, end)` | Extracts substring                    |
+| `toLowerCase()`         | Converts to lowercase                 |
+| `toUpperCase()`         | Converts to uppercase                 |
+| `trim()`                | Removes leading and trailing spaces   |
+| `equals(str)`           | Compares two strings (case-sensitive) |
+| `equalsIgnoreCase(str)` | Case-insensitive comparison           |
+| `compareTo(str)`        | Lexicographical comparison            |
+| `contains(seq)`         | Checks if sequence exists             |
+| `replace(old, new)`     | Replaces character or string          |
+| `split(regex)`          | Splits string based on regex          |
